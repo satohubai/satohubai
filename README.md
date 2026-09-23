@@ -8,7 +8,7 @@
 
 Build and check crypto agents with a daily-rebuilt tooling index, 32-tool MCP, Preflight, and non-custodial routing.
 
-[satohub.ai](https://satohub.ai) · [Build](https://satohub.ai/build) · [Sato OS](https://satohub.ai/os) · [MCP](https://satohub.ai/mcp) · [Passport](https://satohub.ai/agents)
+[satohub.ai](https://satohub.ai) · [Build](https://satohub.ai/build) · [Sato OS](https://satohub.ai/os) · [MCP](https://satohub.ai/mcp) · [Passport](https://satohub.ai/agents) · [𝕏 @SatoHub](https://x.com/satohub)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/satohubai/onchain-agents/main/assets/statband-dark.svg">
